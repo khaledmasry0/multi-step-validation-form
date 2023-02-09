@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL](https://github.com/khaledmasry0/multi-step-validation-form)
 - Live Site URL: [multi-step-validation-form](https://khaledmasry0.github.io/multi-step-validation-form/)
 
 ## My process
