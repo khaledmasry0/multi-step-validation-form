@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/multi-step-validation-form/static/css/main.8fd988bb.css",
+    "main.js": "/multi-step-validation-form/static/js/main.d8398fb3.js",
+    "static/js/787.bf36a60c.chunk.js": "/multi-step-validation-form/static/js/787.bf36a60c.chunk.js",
+    "static/media/bg-sidebar-desktop.svg": "/multi-step-validation-form/static/media/bg-sidebar-desktop.6918153f38678372ceb1.svg",
+    "static/media/icon-advanced.svg": "/multi-step-validation-form/static/media/icon-advanced.705bd10c4c1f688871d729633f0ca4ae.svg",
+    "static/media/icon-thank-you.svg": "/multi-step-validation-form/static/media/icon-thank-you.ee753f231cc5a5789b8eb922a96472c0.svg",
+    "static/media/icon-pro.svg": "/multi-step-validation-form/static/media/icon-pro.2e7e377da9c658d608624304a0f8dae6.svg",
+    "index.html": "/multi-step-validation-form/index.html",
+    "static/media/icon-arcade.svg": "/multi-step-validation-form/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
+    "main.8fd988bb.css.map": "/multi-step-validation-form/static/css/main.8fd988bb.css.map",
+    "main.d8398fb3.js.map": "/multi-step-validation-form/static/js/main.d8398fb3.js.map",
+    "787.bf36a60c.chunk.js.map": "/multi-step-validation-form/static/js/787.bf36a60c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fd988bb.css",
+    "static/js/main.d8398fb3.js"
+  ]
+}
